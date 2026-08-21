@@ -75,7 +75,7 @@ This work is part of a broader dual-architecture (x86_64 + s390x) build pipeline
 
 ## Contributing / Upstream Intent
 
-The goal is to see s390x included as an officially supported target in the upstream [prisma/prisma-engines](https://github.com/prisma/prisma-engines) repository. An upstream issue/PR is in preparation — link will be added here when opened.
+The goal is to see s390x included as an officially supported target in the upstream [prisma/prisma-engines](https://github.com/prisma/prisma-engines) repository. An upstream issue/PR is in preparation — [prisma github issue opened](https://github.com/prisma/prisma-engines/issues/5858)
 
 Community feedback, testing on other s390x distributions (Ubuntu on Z), and collaboration with the [IBM Linux on Z open source team](https://github.com/linux-on-ibm-z) are all welcome.
 
